@@ -6,3 +6,5 @@ Linear Regression and Gradient Descent
 
 ## Homework 2 Topics:
 Regularization
+
+## Homework 3 Topics:
