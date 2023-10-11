@@ -5,7 +5,7 @@ Compilation of homeworks and projects from ECGR-5105 Intro to Machine Learning. 
 Linear Regression and Gradient Descent
 
 ## Homework 2 Topics:
-Regularization
+Regularization with Linear Regression
 
 ## Homework 3 Topics:
 Logistic Regularization (Linear Classifier), Naive Bayes Classifier, Dimension Reduction and Feature Selection
