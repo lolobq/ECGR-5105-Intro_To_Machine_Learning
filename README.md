@@ -8,4 +8,4 @@ Linear Regression and Gradient Descent
 Regularization with Linear Regression
 
 ## Homework 3 Topics:
-Logistic Regularization (Linear Classifier), Naive Bayes Classifier, Dimension Reduction and Feature Selection
+Logistic Regularization (Linear Classifier), Naive Bayes Classifier, Dimension Reduction, and Feature Selection with PCA
