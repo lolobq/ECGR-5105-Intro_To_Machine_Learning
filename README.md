@@ -14,4 +14,4 @@ Logistic Regularization (Linear Classifier), Naive Bayes Classifier, Dimension R
 SVM and SVR Classification
 
 ## Homework 5 Topics:
-Pytorch with SGD and Adam Optimizers
+PyTorch with SGD and Adam Optimizers
