@@ -15,3 +15,6 @@ SVM and SVR Classification
 
 ## Homework 5 Topics:
 PyTorch with SGD and Adam Optimizers
+
+## Homework 6 Topics:
+Neural Networks with PyTorch
