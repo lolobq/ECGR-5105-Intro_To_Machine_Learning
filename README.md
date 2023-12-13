@@ -18,3 +18,6 @@ PyTorch with SGD and Adam Optimizers
 
 ## Homework 6 Topics:
 Neural Networks with PyTorch
+
+## Homework 7 Topics:
+CNNs and RESNETs with PyTorch
